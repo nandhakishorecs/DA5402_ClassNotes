@@ -1,6 +1,0 @@
-requests
-beautifulsoup4
-psycopg2
-numpy
-scikit-learn
-sentence-transformers
